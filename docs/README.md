@@ -18,5 +18,5 @@ d’agrégation et requêtes dans plusieurs sources hétérogènes. Modélisatio
 données comportant un schéma flexible.
 
 Liens utiles:
-- [Plan de cours](cours/plan.md)
+- [Plan de cours](https://uquebec-ets.github.io/IND500/cours/plan_de_cours)
 - [Site officiel](https://www.etsmtl.ca/etudes/cours/ind500)
