@@ -17,16 +17,16 @@ chapitre.
 
 | Semaine | Matière |
 | ------: | :------ |
-| 1       | Intro, table ronde; <br /><br />[Applications fiables, extensibles et maintenables](contenu/semaine1.md) |
+| 1       | Intro, table ronde; <br />[Applications fiables, extensibles et maintenables](contenu/semaine1.md) |
 | 2       | [Modèles de données et langages de requètes](contenu/semaine2.md) |
 | 3       | [Stockage et requète](contenu/semaine3.md) |
 | 4       | [Encodage et évolution](contenu/semaine4.md) |
-| 5       | Quiz 1; <br /><br />[Réplication](contenu/semaine5.md) |
+| 5       | Quiz 1; <br />[Réplication](contenu/semaine5.md) |
 | 6       | [Partitionnement](contenu/semaine6.md) |
-| 7       | Exanen intra;<br /><br />[Transactions](contenu/semaine7.md) |
+| 7       | Exanen intra;<br />[Transactions](contenu/semaine7.md) |
 | 8       | [Problèmes de systèmes distribués](contenu/semaine8.md) |
 | 9       | [Cohérence et consensus](contenu/semaine9.md) |
-| 10      | Quiz 2; <br /><br />[Traitement par lots](contenu/semaine10.md) |
+| 10      | Quiz 2; <br />[Traitement par lots](contenu/semaine10.md) |
 | 11      | [Traitement continu](contenu/semaine11.md) |
 | 12      | [Le futur des systèmes de données](contenu/semaine12.md) |
 | 13      | Examen final |
