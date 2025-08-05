@@ -1,8 +1,0 @@
-remote_theme: just-the-docs/just-the-docs
-color_scheme: dark
-
-gh_edit_link: true
-gh_edit_link_text: "✏️ Éditez cette page sur GitHub"
-gh_edit_repository: "https://github.com/uquebec-ets/IND500"
-gh_edit_branch: "main"
-gh_edit_view_mode: "edit"
