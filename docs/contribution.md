@@ -39,7 +39,7 @@ au projet:
 Le contributeur devrait suivre les instructions suivantes pour chaque modifications:
 
 1. Faites n'importe quelle modification souhaitée dans votre IDE. Consultez la documentation de 
-   [Just the Docs](https://just-the-docs.com/docs/navigation/main/exclude/) au besoin.
+   [Just the Docs](https://just-the-docs.com/) et de [Reveal.js](https://revealjs.com) au besoin.
 
 2. Poussez vos changement à votre propre fork:
 
