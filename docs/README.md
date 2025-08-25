@@ -1,22 +1,27 @@
-<h1>IND500 - Bases de données distribuées modernes</h1>
+# IND500 — Bases de données distribuées modernes
 
-Ce cours vise à expliquer les technologies, la modélisation et l’utilisation des bases de données NoSQL.
+[![Cours](https://img.shields.io/badge/cours-IND500-purple)](https://uquebec-ets.github.io/IND500/cours)
+[![Site officiel ÉTS](https://img.shields.io/badge/ÉTS-site--officiel-red)](https://www.etsmtl.ca/etudes/cours/ind500)
 
-Au terme de ce cours, l’étudiante ou l’étudiant sera en mesure de:
-- Déterminer quand utiliser un type particulier de base de données;
-- Identifier les exigences et les défis des bases de données en matière de performance et de fiabilité;
-- Mettre en pratique les techniques d’extraction, de transformation et de compression de données pour 
-  charger de grandes quantités de données;
-- Comprendre certains enjeux de sécurité et de performance propres aux bases de données distribuées.
+[![TP1](https://img.shields.io/badge/TP1-Introduction-green)](tp/tp1.md)  
+[![TP2](https://img.shields.io/badge/TP2-NoSQL-orange)](tp/tp2.md)  
+[![TP3](https://img.shields.io/badge/TP3-ETL-blue)](tp/tp3.md)
 
-Aspects fondamentaux des différentes technologies de bases de données NoSQL. Survol de la théorie, des 
-concepts, des forces et des faiblesses des bases de données relationnelles et comparaison avec les bases 
-de données non relationnelles. Modèles de bases de données NoSQL: documents, clé-valeurs, colonnes, séries 
-chronologiques et graphes. Introduction à la théorie et aux techniques d’ETL (extraction, transformation 
-et chargement) à grande échelle, sélecteurs de requêtes, mise à jour unique ou massive, pipeline 
-d’agrégation et requêtes dans plusieurs sources hétérogènes. Modélisation et utilisation des bases de 
-données comportant un schéma flexible.
+## Description
+Le cours couvre les **technologies**, la **modélisation** et l’**utilisation** des bases NoSQL, ainsi que les compromis des systèmes distribués (**performance**, **fiabilité**, **scalabilité**).
 
-Liens utiles:
-- [Plan de cours](https://uquebec-ets.github.io/IND500/cours/plan_de_cours)
-- [Site officiel](https://www.etsmtl.ca/etudes/cours/ind500)
+## Objectifs
+- Choisir le bon type de base selon le besoin.
+- Identifier les exigences de **performance** et **fiabilité**.
+- Mettre en pratique l’**ETL** à grande échelle.
+- Comprendre les enjeux de **sécurité** et d’**exploitation** des bases distribuées.
+
+## Contenu
+- Rel/SQL vs NoSQL  
+- Modèles NoSQL : Documents, Clé-valeur, Colonnes, Séries temporelles, Graphes  
+- ETL, agrégation, requêtes hétérogènes  
+- Modélisation flexible, schémas dynamiques
+
+## Liens utiles
+- 📖 [Plan de cours](https://uquebec-ets.github.io/IND500/cours/plan_de_cours)  
+- 🌐 [Site officiel ÉTS](https://www.etsmtl.ca/etudes/cours/ind500)
