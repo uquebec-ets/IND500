@@ -60,5 +60,4 @@ Voir plus de détails sur la page du [TP 3](../tp/tp3.md).
 | 5%  | Quiz 1                  |
 | 5%  | Quiz 2                  |
 | 25% | Intra                   |
-| 30% | Final                   |
-| 5%  | Participation en classe |
+| 35% | Final                   |
