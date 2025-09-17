@@ -28,6 +28,8 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Cache du disque | Page cache | 3 |
 | Charge | Load | 1 |
 | Clé-valeur | Key-value | 2, 3 |
+| Codage par plages | Run-length encoding, RLE | 3 |
+| Complexité algorithmique | Big O notation | 3 |
 | Copie-sur-écriture | Copy-on-write | 3 |
 | Court-circuite (verbe) | Short-circuit | 3 |
 | Débit | Throughput | 1 |
@@ -40,9 +42,11 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | En ligne | Online | 1 |
 | Engin de traitement des données continu | Stream processor | 1, 11 |
 | Engin de traitement des données en lots | Batch processor | 1, 10 |
+| Exploration détaillée | Drill down, slice and dice | 3 |
 | Extensibilité | Scalability | 1, 5, 6 |
 | Extensibilité horizontale | Horizontal scalability, scale out | 1, 5, 6 |
 | Extensibilité verticale | Vertical scalability, scale up | 1 |
+| Extraire, transformer et charger | Extract Transform Load, ETL | 3 |
 | Faille | Fault | 1 |
 | Fiabilité | Reliability | 1 |
 | Filtre de Bloom | Bloom filter | 3 |
@@ -80,21 +84,29 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Sauvegarde | Backup | 1 |
 | Schéma à la lecture | Schema-on-read | 2 |
 | Schéma à l'écriture | Schema-on-write | 2 |
+| Schéma en étoile | Star schema | 3 |
 | Secondes intercalaires | Leap second | 1, 8 |
 | Sommet(s) | Vertex (vertices), node(s), entity (entities) | 2 |
+| Stockage orienté colonnes | Column-oriented storage | 3 |
+| Stockage orienté lignes | Row-oriented storage | 3 |
 | Surcoût | Overhead | 3 |
 | Système de fichiers | Filesystem | 3 |
 | Table d'association | Map | 2 |
+| Table de dimensions | Dimension table | 3 |
+| Table de faits | Fact table | 3 |
 | Tableau associatif | Map | 2 |
+| Tableau de bits | Bitmap | 3 |
 | Tâche de fond | Background task | 3 |
 | Temps de réponse | Response time | 1 |
 | Tolérant aux failles | Fault-tolerant | 1 |
 | Traitement analytique | OLAP, Online Analytical Processing | 2 |
 | Traitement des données continu | Stream processor | 1, 11 |
 | Traitement des données en lots | Batch processor | 1, 10 |
+| Traitement hybride | Hybrid Transactional-Analytical Processing, HTAP | 3 |
 | Traitement transactionnel | OLTP, Online Transactional Processing | 2 |
 | Tri fusion | Merge sort | 3 |
 | Triplestore | Triple-Store | 2 |
+| Voisin bruyant | Noisy neighbour | 3 |
 {: #sorted-index .sort }
 
 <script src="{{ site.baseurl }}/assets/tablesort.js/tablesort.min.js"></script>
