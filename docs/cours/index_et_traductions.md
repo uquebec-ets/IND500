@@ -27,12 +27,15 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Base de données | Database | 1 |
 | Cache du disque | Page cache | 3 |
 | Charge | Load | 1 |
+| Charge utile | Payload | 4 |
 | Clé-valeur | Key-value | 2, 3 |
 | Codage par plages | Run-length encoding, RLE | 3 |
 | Complexité algorithmique | Big O notation | 3 |
+| Consommateur | Consumer | 4, 11 |
 | Copie-sur-écriture | Copy-on-write | 3 |
 | Court-circuite (verbe) | Short-circuit | 3 |
 | Débit | Throughput | 1 |
+| Décodage | Decoding, parsing, deserialization, unmarshalling | 4 |
 | Dictionnaire | Map | 2 |
 | Disposition | Layout | 3 |
 | Disque dur | Hard disk drive, HDD, spindle | 3 |
@@ -40,8 +43,13 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Échec | Failure | 1 |
 | Échecs en cascade | Cascading failures | 1 |
 | En ligne | Online | 1 |
+| Encodage | Encoding, serialization, marshalling | 4 |
+| Encodage et décodage | Serde (SERialization, DEserialization) | 4 |
 | Engin de traitement des données continu | Stream processor | 1, 11 |
 | Engin de traitement des données en lots | Batch processor | 1, 10 |
+| Entête | Header | 4 |
+| Étiquette de champs | Field tag | 4 |
+| Évolution de schéma | Schema evolution | 4 |
 | Exploration détaillée | Drill down, slice and dice | 3 |
 | Extensibilité | Scalability | 1, 5, 6 |
 | Extensibilité horizontale | Horizontal scalability, scale out | 1, 5, 6 |
@@ -70,20 +78,27 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Métadonnée | Metadata | 3 |
 | Paramètre de charge | Load parameter | 1 |
 | Parcourir | Scan | 3 |
+| Pleinement compatible | Fully compatible | 4 |
+| Postcompatible | Forward compatible | 4 |
+| Producteur | Producer | 4, 11 |
 | Récupération après-panne | Crash recovery | 3 |
 | Relation un-à-multiple (1:M) | One-to-Many Relationship | 2 |
 | Relation multiple-à-un (M:1) | Many-to-One Relationship | 2 |
 | Relation multiple-à-multiple (M:M) | Many-to-Many Relationship | 2 |
+| Registraire de schéma | Schema registry | 4 |
 | Répartiteur de charge | Load balancer | 1 |
 | Réplication | Replication | 1, 5 |
 | Requête | Request, Query | 1 |
 | Requête d'intervalle | Range Query | 3 |
 | Requêtes par seconde | Queries per second (QPS) | 1 |
+| Rétrocompatible | Backward compatible | 4 |
 | Sans état | Stateless | 1 |
 | Sans schéma | Schemaless | 2 |
 | Sauvegarde | Backup | 1 |
 | Schéma à la lecture | Schema-on-read | 2 |
 | Schéma à l'écriture | Schema-on-write | 2 |
+| Schéma de décodage | Reader's shema | 4 |
+| Schéma d'encodage | Writer's shema | 4 |
 | Schéma en étoile | Star schema | 3 |
 | Secondes intercalaires | Leap second | 1, 8 |
 | Sommet(s) | Vertex (vertices), node(s), entity (entities) | 2 |
@@ -101,7 +116,7 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Tolérant aux failles | Fault-tolerant | 1 |
 | Traitement analytique | OLAP, Online Analytical Processing | 2 |
 | Traitement des données continu | Stream processor | 1, 11 |
-| Traitement des données en lots | Batch processor | 1, 10 |
+| Traitement des données en lots | Batch processor | 1, 4, 10 |
 | Traitement hybride | Hybrid Transactional-Analytical Processing, HTAP | 3 |
 | Traitement transactionnel | OLTP, Online Transactional Processing | 2 |
 | Tri fusion | Merge sort | 3 |
