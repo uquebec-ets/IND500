@@ -91,6 +91,7 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Requête | Request, Query | 1 |
 | Requête d'intervalle | Range Query | 3 |
 | Requêtes par seconde | Queries per second (QPS) | 1 |
+| Restaurer | Rollback | 4 |
 | Rétrocompatible | Backward compatible | 4 |
 | Sans état | Stateless | 1 |
 | Sans schéma | Schemaless | 2 |
