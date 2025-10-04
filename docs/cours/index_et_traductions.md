@@ -23,23 +23,29 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Arbre B+ | B+ Tree | 3 |
 | Arrêt par panne seulement | Crash-only | 1 |
 | Arrêtes | Edges, relationships, arcs | 1 |
+| Asynchrone | Asynchronous, async | 5 |
 | Avec état | Stateful | 1 |
 | Base de données | Database | 1 |
+| Basculer, basculement | Failover | 5 |
 | Cache du disque | Page cache | 3 |
+| Cerveau scindé | Split brain | 5 |
 | Charge | Load | 1 |
 | Charge utile | Payload | 4 |
 | Clé-valeur | Key-value | 2, 3 |
 | Codage par plages | Run-length encoding, RLE | 3 |
+| Cohérence éventuelle | Eventual consistency | 5 |
 | Complexité algorithmique | Big O notation | 3 |
 | Consommateur | Consumer | 4, 11 |
 | Copie-sur-écriture | Copy-on-write | 3 |
 | Court-circuite (verbe) | Short-circuit | 3 |
 | Débit | Throughput | 1 |
 | Décodage | Decoding, parsing, deserialization, unmarshalling | 4 |
+| Délai maximal | Timeout | 5 |
 | Dictionnaire | Map | 2 |
 | Disposition | Layout | 3 |
 | Disque dur | Hard disk drive, HDD, spindle | 3 |
 | Disque à semi-conducteur | Solid-state drive, SSD, flash | 3 |
+| Données périmées | Stale data | 5 |
 | Échec | Failure | 1 |
 | Échecs en cascade | Cascading failures | 1 |
 | En ligne | Online | 1 |
@@ -55,11 +61,13 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Extensibilité horizontale | Horizontal scalability, scale out | 1, 5, 6 |
 | Extensibilité verticale | Vertical scalability, scale up | 1 |
 | Extraire, transformer et charger | Extract Transform Load, ETL | 3 |
+| Facteur de réplication | Replication factor | 5 |
 | Faille | Fault | 1 |
 | Fiabilité | Reliability | 1 |
 | Filtre de Bloom | Bloom filter | 3 |
 | Graphe attribué | Property graph | 2 |
 | Graphe à propriété | Property graph | 2 |
+| Horodatage | Timestamp | 5 |
 | Incompatibilité d'impédence | Impedence mismatch | 2 |
 | Index clairsemé | Sparse index | 3 |
 | Index de hachage | Hash index | 3 |
@@ -70,12 +78,19 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Jointure | Join | 2 |
 | Journal | Log | 3 |
 | Journal d'écritures en amont | Write-Ahead Log (WAL), redo log | 3 |
+| La dernière écriture gagne | Last writer wins | 5 |
+| Leader | Leader, primary, master | 5 |
+| Leader-suivant | Leader-Follower, Active-Passive, Master-Slave | 5 |
+| Lectures à antécédent cohérent | Consistent prefix reads | 5 |
+| Lectures monotones | Monotonic reads | 5 |
+| Lis tes propres écritures | Read your own writes | 5 |
 | Maintenabilité | Maintainability | 1 |
 | Mapping objet-relationnel | Object-Relational Mapping, ORM | 2 |
 | Marqueur de suppression | Tombstone | 3 |
 | Matériel standard | Commodity hardware | 1 |
 | Mémoire vive | RAM | 1 |
 | Métadonnée | Metadata | 3 |
+| Multi-leader | Multi-leader, master-master, active/active | 5 |
 | Paramètre de charge | Load parameter | 1 |
 | Parcourir | Scan | 3 |
 | Pleinement compatible | Fully compatible | 4 |
@@ -88,12 +103,15 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Registraire de schéma | Schema registry | 4 |
 | Répartiteur de charge | Load balancer | 1 |
 | Réplication | Replication | 1, 5 |
+| Réplique | Replica | 5 |
 | Requête | Request, Query | 1 |
 | Requête d'intervalle | Range Query | 3 |
 | Requêtes par seconde | Queries per second (QPS) | 1 |
 | Restaurer | Rollback | 4 |
+| Retard de réplication | Replication lag | 5 |
 | Rétrocompatible | Backward compatible | 4 |
 | Sans état | Stateless | 1 |
+| Sans leader | Leaderless | 5 |
 | Sans schéma | Schemaless | 2 |
 | Sauvegarde | Backup | 1 |
 | Schéma à la lecture | Schema-on-read | 2 |
@@ -105,7 +123,9 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Sommet(s) | Vertex (vertices), node(s), entity (entities) | 2 |
 | Stockage orienté colonnes | Column-oriented storage | 3 |
 | Stockage orienté lignes | Row-oriented storage | 3 |
+| Suivant | Follower, read replica, slave, secondary, hot standby | 5 |
 | Surcoût | Overhead | 3 |
+| Synchrone | Synchronous | 5 |
 | Système de fichiers | Filesystem | 3 |
 | Table d'association | Map | 2 |
 | Table de dimensions | Dimension table | 3 |
@@ -122,6 +142,7 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Traitement transactionnel | OLTP, Online Transactional Processing | 2 |
 | Tri fusion | Merge sort | 3 |
 | Triplestore | Triple-Store | 2 |
+| Types de données répliqués convergents et commutatifs | Conflict-free replicated data types, CRDT | 5 |
 | Voisin bruyant | Noisy neighbour | 3 |
 {: #sorted-index .sort }
 
