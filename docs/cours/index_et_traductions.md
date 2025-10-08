@@ -21,6 +21,8 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Amplification de stockage | Space amplification | 3 |
 | Arbre B | B-Tree | 3 |
 | Arbre B+ | B+ Tree | 3 |
+| Arbre LSM | LSM Tree | 3, 6 |
+| Architecture sans partage | Shared-nothing architecture | Intro de la partie II, 6 |
 | Arrêt par panne seulement | Crash-only | 1 |
 | Arrêtes | Edges, relationships, arcs | 1 |
 | Asynchrone | Asynchronous, async | 5 |
@@ -38,13 +40,14 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Consommateur | Consumer | 4, 11 |
 | Copie-sur-écriture | Copy-on-write | 3 |
 | Court-circuite (verbe) | Short-circuit | 3 |
-| Débit | Throughput | 1 |
+| Débit | Throughput | 1, 6 |
 | Décodage | Decoding, parsing, deserialization, unmarshalling | 4 |
 | Délai maximal | Timeout | 5 |
 | Dictionnaire | Map | 2 |
 | Disposition | Layout | 3 |
 | Disque dur | Hard disk drive, HDD, spindle | 3 |
 | Disque à semi-conducteur | Solid-state drive, SSD, flash | 3 |
+| Distribution uniform | Uniform distribution | 6 |
 | Données périmées | Stale data | 5 |
 | Échec | Failure | 1 |
 | Échecs en cascade | Cascading failures | 1 |
@@ -59,6 +62,9 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Exploration détaillée | Drill down, slice and dice | 3 |
 | Extensibilité | Scalability | 1, 5, 6 |
 | Extensibilité horizontale | Horizontal scalability, scale out | 1, 5, 6 |
+| Extensibilité linéaire | Linear scalability | 6 |
+| Extensibilité sublinéaire | Sublinear scalability | 6 |
+| Extensibilité superlinéaire | Superlinear scalability | 6 |
 | Extensibilité verticale | Vertical scalability, scale up | 1 |
 | Extraire, transformer et charger | Extract Transform Load, ETL | 3 |
 | Facteur de réplication | Replication factor | 5 |
@@ -67,13 +73,13 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Filtre de Bloom | Bloom filter | 3 |
 | Graphe attribué | Property graph | 2 |
 | Graphe à propriété | Property graph | 2 |
-| Horodatage | Timestamp | 5 |
+| Horodatage | Timestamp | 5, 6 |
 | Incompatibilité d'impédence | Impedence mismatch | 2 |
 | Index clairsemé | Sparse index | 3 |
 | Index de hachage | Hash index | 3 |
 | Index de recherche | Search index | 1, 6 |
 | Index primaire | Primary key index | 3 |
-| Index secondaire | Secondary index | 3 |
+| Index secondaire | Secondary index | 3, 6 |
 | Imbriquement | Embedding, nesting | 2 |
 | Jointure | Join | 2 |
 | Journal | Log | 3 |
@@ -84,6 +90,7 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Lectures à antécédent cohérent | Consistent prefix reads | 5 |
 | Lectures monotones | Monotonic reads | 5 |
 | Lis tes propres écritures | Read your own writes | 5 |
+| Lot de données | Dataset | 6 |
 | Maintenabilité | Maintainability | 1 |
 | Mapping objet-relationnel | Object-Relational Mapping, ORM | 2 |
 | Marqueur de suppression | Tombstone | 3 |
@@ -91,9 +98,19 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Mémoire vive | RAM | 1 |
 | Métadonnée | Metadata | 3 |
 | Multi-leader | Multi-leader, master-master, active/active | 5 |
+| Noeud | Node | 6 |
 | Paramètre de charge | Load parameter | 1 |
 | Parcourir | Scan | 3 |
+| Partition | Partition, shard, tablet, vnode, vBucket | 6 |
+| Partition réseau | Network partition, netsplit | 8 |
+| Partitionnement | Partitioning, sharding | 6 |
+| Partitionnement déséquilibré | Skewed partitioning | 6 |
+| Partitionnement par hachage de clés | Partitioning by hash of key, hash partitioning | 6 |
+| Partitionnement par plage de clés | Partitioning by range of key, range partitioning | 6 |
 | Pleinement compatible | Fully compatible | 4 |
+| Pré-découpage | Pre-splitting | 6 |
+| Problème éphémère de disponibilité | Flapping | 6 |
+| Point chaud | Hot spot | 6 |
 | Postcompatible | Forward compatible | 4 |
 | Producteur | Producer | 4, 11 |
 | Récupération après-panne | Crash recovery | 3 |
@@ -106,6 +123,7 @@ le(s) chapitre(s) du livre à consulter pour en apprendre plus.
 | Réplique | Replica | 5 |
 | Requête | Request, Query | 1 |
 | Requête d'intervalle | Range Query | 3 |
+| Requête de dispersion-consolidation | Scatter-gather request | 6 |
 | Requêtes par seconde | Queries per second (QPS) | 1 |
 | Restaurer | Rollback | 4 |
 | Retard de réplication | Replication lag | 5 |
